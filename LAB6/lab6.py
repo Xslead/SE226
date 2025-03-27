@@ -1,6 +1,3 @@
-from locale import currency
-
-
 def factorial(n):
     """
     Recursively calculates the factorial of a non-negative integer.
